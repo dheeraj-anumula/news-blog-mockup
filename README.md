@@ -2,4 +2,4 @@
 
 ![Mockup image](Mockup.jpg)
 
-Developed this static mockup page
+This is the static page to be developed
